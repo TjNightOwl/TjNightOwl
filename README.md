@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tarsizious Chikaonda</h1>
 <h3 align="center">A passionate Full-Stack Developer/ Data Scientist from Malawi</h3>
 
-- 🔭 I’m currently working on **Frontend and backend projects using PHP, MySQL and JavaScript as well as mobile apps using dart & Flutter**
+- 🔭 I’m currently working on **Frontend and backend projects using PHP, MySQL, Python and JavaScript as well as mobile apps using dart & Flutter**
 
 - 🌱 I’m currently learning **Flutter**
 
